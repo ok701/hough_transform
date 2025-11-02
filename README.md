@@ -4,7 +4,7 @@
 
 This project implements a **lane detection algorithm** for a self-driving system using the **Hough Line Transform** in OpenCV.  
 
-<img src="image.png" alt="Lane Detection Overview" width="40%"/>
+<img src="image.png" alt="Lane Detection Overview" width="50%"/>
 
 **Dynamic ROI (Region of Interest)** adjustment using keyboard input.  
 Video from Pixabay (*Kililla*).
